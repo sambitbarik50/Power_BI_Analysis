@@ -2,14 +2,14 @@
 
 # 📊 Adventure Works Sales Dashboard | Power BI Project
 
-## 🚀 Project Summary
+## Project Summary
 Developed an end-to-end Business Intelligence solution using the Adventure Works dataset to analyze sales performance, customer behavior, and product trends. 
 
 This project demonstrates strong skills in **data transformation, data modeling, and interactive dashboard development** to support data-driven decision-making.
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Analyze overall sales performance
 - Identify top-performing products and regions
 - Track monthly and yearly sales trends
@@ -17,7 +17,7 @@ This project demonstrates strong skills in **data transformation, data modeling,
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Power BI** – Data Visualization & Dashboard
 - **Power Query** – Data Cleaning & Transformation
 - **DAX** – Calculated Measures & KPIs
@@ -43,7 +43,7 @@ This project demonstrates strong skills in **data transformation, data modeling,
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Identified top revenue-generating products and categories  
 - Found highest sales contribution by specific regions  
 - Observed seasonal trends in sales performance  
@@ -51,7 +51,7 @@ This project demonstrates strong skills in **data transformation, data modeling,
 
 ---
 
-## 🖥️ Dashboard Features
+##  Dashboard Features
 ✔ KPI Cards (Revenue, Profit, Orders)  
 ✔ Time-series analysis (Monthly/Yearly trends)  
 ✔ Top N products & categories  
@@ -60,8 +60,8 @@ This project demonstrates strong skills in **data transformation, data modeling,
 
 ---
 
-## 🖼️ Dashboard Preview
-(Add your screenshot here)
+##  Dashboard Preview
+
 
 ![Dashboard](Power_BI_Project/Dashobord_Screen_short/Customer_Details.png.png)
 ![Dashboard](Power_BI_Project/Dashobord_Screen_short/Customer_Details.png.png)
@@ -78,14 +78,14 @@ This project demonstrates strong skills in **data transformation, data modeling,
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 - Hands-on experience with real-world BI workflow  
 - Improved data modeling and DAX skills  
 - Ability to convert raw data into actionable insights  
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Sambit Kumar Barik**  
 Aspiring Data Analyst | Power BI Developer  
 
