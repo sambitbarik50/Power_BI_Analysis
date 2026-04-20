@@ -63,7 +63,8 @@ This project demonstrates strong skills in **data transformation, data modeling,
 ## 🖼️ Dashboard Preview
 (Add your screenshot here)
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashobord_Screen_short/Main_Dashbord.png)
+
 
 ---
 
