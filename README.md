@@ -64,6 +64,9 @@ This project demonstrates strong skills in **data transformation, data modeling,
 (Add your screenshot here)
 
 ![Dashboard](Power_BI_Project/Dashobord_Screen_short/Customer_Details.png.png)
+![Dashboard](Power_BI_Project/Dashobord_Screen_short/Customer_Details.png.png)
+![Dashboard](Power_BI_Project/Dashobord_Screen_short/Product_details.png)
+
 
 
 ---
